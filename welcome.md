@@ -1,6 +1,6 @@
 Hello,
 
-Welcome to Numerical Computing Using Python! In this online class we
+Welcome to Numerical Computing Using Python! In this class we
 will start by discussing the fundamentals of numerical computing,
 including data types and basic linear algebra (vectors, matrices and
 tensors), and their representations in Numpy
