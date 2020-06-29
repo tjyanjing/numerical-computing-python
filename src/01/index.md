@@ -35,8 +35,7 @@ Video Lectures and Jupyter notebooks
 
 -   Save or load data using `h5py`
 
-    - [Example](https://drive.google.com/open?id=1fFt5D34Tvtp_VTpbuzsrRyqmgOb2zwg4)
-      [Jupyter notebook](../ipynb/ch1/save-load-arrays-h5py.ipynb)
+    - Example: [video](https://drive.google.com/open?id=1fFt5D34Tvtp_VTpbuzsrRyqmgOb2zwg4) | [Jupyter notebook](../ipynb/ch1/save-load-arrays-h5py.ipynb)
 
 Additional readings
 -------------------
