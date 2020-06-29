@@ -1,4 +1,4 @@
-Chapter 2
+Module 2
 =========
 
 Starting ipython and numpy: [video](https://drive.google.com/open?id=1AcP5zRphQlM3GaEVV5i2DZXFsEWzG1Bj)
