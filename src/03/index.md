@@ -53,7 +53,7 @@ your code to Canvas.
 ### Problem 2
 
 Download this the file
-[ex2.h5](../ipynb/ch3/ex2.h5)
+[ex2.h5](../../../../raw/master/src/ipynb/ch3/ex2.h5)
 which contains the x,y coordinates of a data set. You can read the x and
 y values using the command:
 
