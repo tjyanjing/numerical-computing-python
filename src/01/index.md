@@ -1,4 +1,4 @@
-Lecture 1
+Module 1
 =========
 
 The videos are recorded with at least 1K resolution but the default
