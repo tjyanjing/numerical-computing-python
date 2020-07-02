@@ -15,6 +15,13 @@ Starting ipython and numpy: [video](https://drive.google.com/open?id=1AcP5zRphQl
 Lectures
 --------
 
+Slides and Jupyter notebook.
+
+Videos
+-------
+
+Watch these on your own:
+
 - Numpy array operations
     - creating arrays: [video](https://drive.google.com/open?id=1ZjgvngVcd70sbZoHSSjrw4vH1gDZ_vio)
         - 2D array: [video](https://drive.google.com/open?id=11TKtNqyaZWMn97OdPnpqtOAXHBYy2a2V)
