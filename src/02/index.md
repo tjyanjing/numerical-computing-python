@@ -1,6 +1,15 @@
 Module 2
 =========
 
+Learning goals
+----------------
+- Be able to use ipython and Jupyter notebook to load numpy
+- Be able to perform operations on numpy array operations
+- Good understanding of numpy indexing
+- Polynomial representations in Python/numpy
+- Random numbers
+- Continue reading numpy documentation
+
 Starting ipython and numpy: [video](https://drive.google.com/open?id=1AcP5zRphQlM3GaEVV5i2DZXFsEWzG1Bj)
 
 Lectures
@@ -30,13 +39,14 @@ Lectures
             -   concatenate (along an existing axis): [video](https://drive.google.com/open?id=1huQ01O28fv5eUR6kkbCRz3Vn351tcMvE)
             -   stack (creates a new axis): [video](https://drive.google.com/open?id=1LLoCFNcC2vCrV_-GWIbIW4V3NS6fqxU7)
 - Indexing
-
     - basic slicing (returns a view): [video](https://drive.google.com/open?id=1q593-xyMlsun0LbhrlmSp4SOiJDGLYEi)
     - advanced slicing (returns a copy): [video](https://drive.google.com/open?id=1wC-OH-nzu-eBDBIi17VR7VmlWUFnG6Nx)
     - Boolean indexing: [video](https://drive.google.com/open?id=1d-dcLA3hGK61ztw2q7E0EWxmpHUph6Um)
+
 -   Polynomial
     -   [video 1/2](https://drive.google.com/open?id=1UTBZBi_6rCUC4OrYfn3b4kD6YiaDbbUG)
     -   [video 2/2](https://drive.google.com/open?id=1H8GvXaFA5dmxjwA5Ua6O112O_mC-3U1u)
+
 -   Random numbers
     - Introduction: [video](https://drive.google.com/open?id=12ANilm5p8J_OW4ITMqk7lDS_wV9MufHW)
 
