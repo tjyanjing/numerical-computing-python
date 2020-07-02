@@ -1,10 +1,21 @@
-Lecture 1
+Module 1
 =========
 
 The videos are recorded with at least 1K resolution but the default
 resolution when you open it in your browser may be lower than this. You
 can manually select a higher resolution if your device and network
 bandwidth support it.
+
+Learning goals
+---------------
+- Have a working Jupyter notebook (or Jupyter lab) environment.
+- Understand how to download, run, modify and save a Jupyter notebook file.
+- Understand the computer representation of integer and floating point numbers.
+- Concrete understanding of scalar, vector and matrix.
+- Have working knowledge of various numpy date types.
+- Know how to store and retrive files using HDF5 format via `h5py`
+- Learn how to read numpy documentation
+
 
 Video Lectures and Jupyter notebooks
 ------------------------------------

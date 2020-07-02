@@ -35,4 +35,4 @@
 
 -   Applications in computational and data sciences
 
--   Final Project
+-   Final Project (to be announced)
