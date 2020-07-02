@@ -1,6 +1,14 @@
 Module 2
 =========
 
+Checklist
+------------
+- Working Python/numpy environment
+- Be able to access class materials
+- Be able to download a file from github
+
+
+
 Learning goals
 ----------------
 - Be able to use ipython and Jupyter notebook to load numpy
@@ -12,11 +20,6 @@ Learning goals
 
 Starting ipython and numpy: [video](https://drive.google.com/open?id=1AcP5zRphQlM3GaEVV5i2DZXFsEWzG1Bj)
 
-Checklist
-------------
-- Working Python/numpy environment
-- Be able to access class materials
-- Be able to download a file from github
 
 
 Lectures
