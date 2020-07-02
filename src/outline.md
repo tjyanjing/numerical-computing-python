@@ -1,3 +1,14 @@
+# Hybrid class
+
+- Offline
+   - Watch the recorded videos on your own
+   - Work on exercises
+        
+- Online lectures (real time)
+   - Lectures (forcing on big pictures)
+   - Recap, discuss the exercises
+   - Lecture slides in pdf will be posted after class
+
 # Course Outline
 
 *    Basic operations
