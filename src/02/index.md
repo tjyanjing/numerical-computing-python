@@ -15,7 +15,7 @@ Starting ipython and numpy: [video](https://drive.google.com/open?id=1AcP5zRphQl
 Lectures
 --------
 
-Slides and Jupyter notebook.
+Slides and Jupyter notebook - posted in zoom chat box
 
 Videos
 -------
