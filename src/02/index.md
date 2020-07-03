@@ -28,6 +28,7 @@ Lectures
 --------
 
 - [folder](../../../../tree/master/src/02)
+  - To download a `.py` or `.ipynb` file, click on the file, then click on "Raw", then save the file. It is important to click on "Raw" otherwise the downloaded file will not work.
 - See Canvas for recorded lecture URL
  
  
