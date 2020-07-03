@@ -3,7 +3,7 @@ Module 2
 
 Checklist
 ------------
-- Working Python/numpy environment
+- Working Python/numpy environment (e.g. Anaconda)
 - Be able to access class materials
 - Be able to download a file from github
 
