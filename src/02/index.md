@@ -6,7 +6,7 @@ Checklist
 - Working Python/numpy environment (e.g. Anaconda)
 - Be able to access class materials
 - Be able to download a file from github
-- Some videos will be remade due to bad audio quality
+- Some videos will be remade due to bad audio
 - Some videos will be moved to youtube due to slow response
 
 
