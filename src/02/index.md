@@ -27,10 +27,12 @@ Starting ipython and numpy: [video](https://drive.google.com/open?id=1AcP5zRphQl
 Lectures
 --------
 
-Slides and Jupyter notebook - posted in zoom chat box
-
-Videos
--------
+- [folder](../../../../tree/master/src/02)
+- See Canvas for recorded lecture URL
+ 
+ 
+Additional Recorded Videos
+-----------------------------
 
 Watch these on your own:
 
