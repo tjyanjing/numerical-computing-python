@@ -6,6 +6,11 @@
 - Linear regression fundamentals
 - Additional discussions of Matplotlib plotting
 
+## Class materials
+
+- [Slides]() will be posted after class
+- The recorded lecture will be posted in Canvas
+
 
 ## Interpolation
 
