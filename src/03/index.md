@@ -15,7 +15,7 @@
 
 ## Class materials
 
-- [folder](- [folder](../../../../tree/master/src/03)
+- [folder](../../../../tree/master/src/03)
     - Lecture slides will be posted after class
 - The recorded lecture will be posted in Canvas
 
