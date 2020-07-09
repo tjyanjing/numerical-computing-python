@@ -3,8 +3,15 @@
 ## Learning goals
 
 - Interpolation fundamentals
+    - derivation
+    - in matrix form
+    - Python implementation
 - Linear regression fundamentals
+    - derivation
+    - in matrix form
+    - Python implementation
 - Additional discussions of Matplotlib plotting
+    - Customizing the plot
 
 ## Class materials
 
