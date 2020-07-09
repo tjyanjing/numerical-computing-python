@@ -1,5 +1,12 @@
 # Module 3
 
+## Learning goals
+
+- Interpolation fundamentals
+- Linear regression fundamentals
+- Matplotlib plotting
+
+
 ## Interpolation
 
 -   Linear interpolation:
