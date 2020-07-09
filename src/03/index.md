@@ -4,7 +4,7 @@
 
 - Interpolation fundamentals
 - Linear regression fundamentals
-- Matplotlib plotting
+- Additional discussions of Matplotlib plotting
 
 
 ## Interpolation
