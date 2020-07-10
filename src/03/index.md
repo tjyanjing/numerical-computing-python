@@ -3,8 +3,21 @@
 ## Learning goals
 
 - Interpolation fundamentals
+    - derivation
+    - in matrix form
+    - Python implementation
 - Linear regression fundamentals
+    - derivation
+    - in matrix form
+    - Python implementation
 - Additional discussions of Matplotlib plotting
+    - Customizing the plot
+
+## Class materials
+
+- [folder](../../../../tree/master/src/03)
+    - Lecture slides will be posted after class
+- The recorded lecture will be posted in Canvas
 
 
 ## Interpolation
