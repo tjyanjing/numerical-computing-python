@@ -19,4 +19,4 @@ Specifically, we will explore:
 - `scipy.signal`: singal processing | [Jupyter](signal.ipynb)
 - `scipy.ndimage`: image manipulation | [Jupyter](image.ipynb)
 
-
+See the files in the class materials [folder](../../../../tree/master/src/04)
