@@ -11,13 +11,6 @@ Specifically, we will explore:
 - Optimization and fit using `scipy.optimize`: [Jupyter](optim.ipynb)
     - Minimization of 1-D and 2-D functions 
 - Signal processing using `scipy.signal`: [Jupyter](signal.ipynb)
-- Image manipulation using `scipy.ndimage`: [Jupyter](image.ipynb)
 - Statistics and random numbers using `scipy.stats`: [Jupyter](stats.ipynb)
-- Integration using `scipy.integrate`: [Jupyter](integrate.ipynb)
-    - function 
-    - ordinary differential equations
-- Fast Fourier Transform using `scipy.fft`: [Jupyter](fft.ipynb)
-    - filtering signals and images
-
 
 See the files in the class materials [folder](../../../../tree/master/src/04)
