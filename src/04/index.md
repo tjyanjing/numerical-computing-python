@@ -6,17 +6,18 @@ The scipy routines are built on top of numpy; they are optimized and tested and 
 
 Specifically, we will explore:
 
-- `scipy.linalg`: linear algebra | [Jupyter](linalg.ipynb)
-- `scipy.interpolate`: interpolation | [Jupyter](interpolate.ipynb)
-- `scipy.optimize`: optimization and fit
-    - Minimization of 1-D and 2-D functions | [Jupyter](optim.ipynb)
-- `scipy.stats`: statistics and random numbers | [Jupyter](stats.ipynb)
-- `scipy.integrate` | [Jupyter](integrate.ipynb)
+- Linear algebra using `scipy.linalg`: [Jupyter](linalg.ipynb)
+- Interpolation using `scipy.interpolate`: [Jupyter](interpolate.ipynb)
+- Optimization and fit using `scipy.optimize`: [Jupyter](optim.ipynb)
+    - Minimization of 1-D and 2-D functions 
+- Signal processing using `scipy.signal`: [Jupyter](signal.ipynb)
+- Image manipulation using `scipy.ndimage`: [Jupyter](image.ipynb)
+- Statistics and random numbers using `scipy.stats`: [Jupyter](stats.ipynb)
+- Integration using `scipy.integrate`: [Jupyter](integrate.ipynb)
     - function 
     - ordinary differential equations
-- `scipy.fft`: Fast Fourier Transform | [Jupyter](fft.ipynb)
-    - filtering signals
-- `scipy.signal`: singal processing | [Jupyter](signal.ipynb)
-- `scipy.ndimage`: image manipulation | [Jupyter](image.ipynb)
+- Fast Fourier Transform using `scipy.fft`: [Jupyter](fft.ipynb)
+    - filtering signals and images
 
 
+See the files in the class materials [folder](../../../../tree/master/src/04)
