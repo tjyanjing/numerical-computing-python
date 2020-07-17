@@ -8,8 +8,8 @@ Specifically, we will explore:
 
 - Linear algebra using `scipy.linalg`: [Jupyter](linalg.ipynb)
 - Interpolation using `scipy.interpolate`: [Jupyter](interpolate.ipynb)
-- Optimization and fit using `scipy.optimize`:
-    - Minimization of 1-D and 2-D functions | [Jupyter](optim.ipynb)
+- Optimization and fit using `scipy.optimize`: [Jupyter](optim.ipynb)
+    - Minimization of 1-D and 2-D functions 
 - Signal processing using `scipy.signal`: [Jupyter](signal.ipynb)
 - Image manipulation using `scipy.ndimage`: [Jupyter](image.ipynb)
 - Statistics and random numbers using `scipy.stats`: [Jupyter](stats.ipynb)
