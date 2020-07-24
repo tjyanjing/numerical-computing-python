@@ -11,3 +11,7 @@ We will explore:
 - Numerical optimization: [Jupyter](num-optim.ipynb)
 
 See the files in the class materials [folder](../../../../tree/master/src/05)
+
+
+## References
+
