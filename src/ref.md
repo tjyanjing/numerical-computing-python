@@ -16,6 +16,6 @@ Numerical computing is a broad subject.  Some of these references are quite tech
 - Elementary Differential Equations by  Boyce, DiPrima and Meade [Amazon](https://www.amazon.com/Elementary-Differential-Equations-William-Boyce/dp/1119443636/ref=sr_1_1?dchild=1&keywords=ordinary+differential+equations+diprima&qid=1596152748&s=books&sr=1-1)
 - Learning from Data, by Abu-Mostafa et al. [Amazon](https://www.amazon.com/Learning-Data-Yaser-S-Abu-Mostafa/dp/1600490069/ref=sr_1_2?dchild=1&keywords=learning+from+data&qid=1596152841&s=books&sr=1-2)
 - Numerical Mathematics and Computing by Cheney and  Kincaid, [Amazon](https://www.amazon.com/Numerical-Mathematics-Computing-Ward-Cheney/dp/1133103715/ref=sr_1_2?dchild=1&keywords=numerical+computing&qid=1596152962&s=books&sr=1-2)
-- Calculus (authored by the community) [vol 1](https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/Calculus_Volume_1_-_WEB.pdf)
+- Calculus (authored by the community): [vol 1](https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/Calculus_Volume_1_-_WEB.pdf)
   | [vol 2](https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/CalculusVolume2-OP_esPpXTB.pdf)
   | [vol 3](https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/CalculusVolume3-OP_n7Nj74c.pdf)
