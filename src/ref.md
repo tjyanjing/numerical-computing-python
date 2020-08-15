@@ -19,3 +19,4 @@ Numerical computing is a broad subject.  Some of these references are quite tech
 - Calculus (authored by the community): [vol 1](https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/Calculus_Volume_1_-_WEB.pdf)
   | [vol 2](https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/CalculusVolume2-OP_esPpXTB.pdf)
   | [vol 3](https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/CalculusVolume3-OP_n7Nj74c.pdf)
+- The Scientist and Engineer's Guide to Digital Signal Processing by S. W. Smith | [pdf](http://www.dspguide.com/pdfbook.htm)
