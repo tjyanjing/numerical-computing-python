@@ -19,3 +19,7 @@ Numerical computing is a broad subject.  Some of these references are quite tech
 - Calculus (authored by the community): [vol 1](https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/Calculus_Volume_1_-_WEB.pdf)
   | [vol 2](https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/CalculusVolume2-OP_esPpXTB.pdf)
   | [vol 3](https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/CalculusVolume3-OP_n7Nj74c.pdf)
+- The Scientist and Engineer's Guide to Digital Signal Processing by S. W. Smith | [pdf](http://www.dspguide.com/pdfbook.htm)
+- Python for Signal Processing by J. Unpingco | [[Amazon link]](https://www.amazon.com/Python-Signal-Processing-Featuring-Notebooks/dp/3319013416)
+- OpenIntro Statistics | [link](https://www.openintro.org/book/os/)
+- Numerical Python by R. Johansson | [[Amazon link]](https://read.amazon.com/kp/embed?asin=B07M5ZDV62&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_aacoFbKGRGJJN)
