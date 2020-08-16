@@ -15,6 +15,7 @@ This file contains the links to all class materials.
 | [Module 7](src/07/index.md) | 8/6  |
 | [Module 8](src/08/index.md) | 8/13 |
 | [Module 9](src/09/index.md) | 8/20 |
+| [Module 10](src/10/index.md) | 8/27 |
 
 Other links:
 - [References](src/ref.md)
